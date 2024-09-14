@@ -7,4 +7,10 @@ application on AWS cloud and on local machines respectively.
 ### AWS Elastic Beanstalk (PaaS)
 -----------------------------------------------------------------
 AWS Elastic Beanstalk was used to make this spring boot project 
-to users online.
+available to users online.
+#### Elastic Beanstalk Process via AWS Console
+* Create application
+* Create environment
+* Choose platform => Java
+* Upload jar file
+### AWS RDS
