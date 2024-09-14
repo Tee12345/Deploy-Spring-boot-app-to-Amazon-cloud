@@ -14,3 +14,7 @@ available to users online.
 * Choose platform => Java
 * Upload jar file
 ### AWS RDS
+------------------------------------------------------------------
+A replica of the database for this project was created on AWS RDS 
+service. The cloud database was connected to the local version 
+from Workbench. An SQL database was used for this project. 
