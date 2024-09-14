@@ -17,4 +17,4 @@ available to users online.
 ------------------------------------------------------------------
 A replica of the database for this project was created on AWS RDS 
 service. The cloud database was connected to the local version 
-from Workbench. An SQL database was used for this project. 
+from Workbench and an SQL database was used for this project. 
